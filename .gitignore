@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+last_scan_state.json
+port_monitor.log
